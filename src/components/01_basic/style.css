@@ -1,0 +1,14 @@
+.main-nav {
+  display: flex;
+  background-color: #ccc;
+}
+.main-nav li {
+  margin-right: 2rem;
+}
+
+.Friends-div {
+  display: flex;
+}
+.Friends-div .Friends {
+  margin-right: 10px;
+}/*# sourceMappingURL=style.css.map */
